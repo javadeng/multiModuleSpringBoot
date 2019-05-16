@@ -8,7 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
 /**
  * Created with IntelliJ IDEA.
  *
- * @Author: v_dengjianghua
+ * @Author: dengjianghua
  * @Date: 2019-05-15
  * @Time: 18:38
  * @Version 1.0
